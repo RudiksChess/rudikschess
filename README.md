@@ -24,8 +24,10 @@
 
 
 - &nbsp; Currently pursuing BS in Applied Mathematics (2020-2023) from Universidad del Valle de Guatemala. 
-- &nbsp;  Universidad del Valle Chess Club's President (2020). Developing tournament organizer from [chess.com] (chess.com) games at [this repository](https://github.com/RudiksChess/ClubDeAjedrezUVG)
-
+- &nbsp; I was a Physics major per two years (2019-2020). 
+- &nbsp; Universidad del Valle Chess Club's President (2020). Developing tournament organizer from [chess.com] (https://chess.com) games at [this repository](https://github.com/RudiksChess/ClubDeAjedrezUVG).
+- &nbsp; Taking nice notes in LaTeX at these repositories:  [Real Analysis](https://github.com/RudiksChess/Real_Analysis), [Mathematical Statistics](https://github.com/RudiksChess/Estadistica_Matematica), [Inferential Statistics](https://github.com/RudiksChess/Estadistica_Inferencial), [Partial Differential Equations](https://github.com/RudiksChess/EcuacionesDiferenciales2), [Discrete Mathematics](https://github.com/RudiksChess/Matematica_Discreta). 
+- &nbsp; I hava developed a Lisp Interpreter at this repository: [Lisp Interpreter](https://github.com/RudiksChess/IntepreteLisp). 
 
 
 ## 👨🏾‍💻 A little bit about my coding experience...
