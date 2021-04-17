@@ -15,12 +15,12 @@
 ##
 <table><tr>
   <td>
-    <h3>:de: Trusted Web Activitys (TWA) mit Angular</h3>
-    <p>Progressive Web Apps sind in den letzten Jahren immer populärer geworden. In diesem Blogpost werde ich Ihnen zeigen, wie Sie Ihre PWA auf einfachem Weg in den Google Play Store für Android bringen können, ohne eine echte Android-App mit Webview zu entwickeln, die lediglich eine Website aufruft.</p>
-    <a href="https://d-koppenhagen.de//blog/2020-11-twa">:arrow_forward: Read more</a>
+    <h3>:de: Una fractura </h3>
+    <p>La constante particularidad de la zozobra. El silencio amalgama la soledad de aquel sujeto. El tiempo ha dejado de poseer un sentido cronológico; para convertirse en un factor ínfimo.</p>
+    <a href="https://rudiks.com/archivos/2878">:arrow_forward: Read more</a>
   </td>
   <td>
-    <img src="https://d-koppenhagen.de/assets/images/blog/twa/header-twa-small.jpg" alt="Banner" width="400px">
+    <img src="https://rudiks.com/wp-content/uploads/2021/04/fractal.png" alt="Banner" width="400px">
   </td>
 </tr>
 
