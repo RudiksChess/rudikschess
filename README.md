@@ -24,7 +24,7 @@
   </td>
 </tr>
 
-tr>
+<tr>
   <td>
     <h3> Una fracción de eternidad </h3>
     <p>Un mundo lleno de desigualdad, un mundo lleno de bazofia, un mundo que en su corta historia jamás ha visto tanta devastación provocada por un ingente cinismo generalizado.</p>
