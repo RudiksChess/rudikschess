@@ -5,16 +5,16 @@
 
 <br><br>
 <a href="https://rudiks.com">
-  <img align="left" alt="Rudiks" width="200px" src="https://github.com/RudiksChess/rudikschess/blob/main/Buttons/rudiks-2.svg" />
+  <img align="left" alt="Rudiks" width="150px" src="https://github.com/RudiksChess/rudikschess/blob/main/Buttons/rudiks-2.svg" />
 </a>
 <a href="https://twitter.com/TheRudiks">
-  <img align="left" alt="Twitter" width="200px" src="https://github.com/RudiksChess/rudikschess/blob/main/Buttons/Twitter.svg" />
+  <img align="left" alt="Twitter" width="150px" src="https://github.com/RudiksChess/rudikschess/blob/main/Buttons/Twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/therudiks/">
-  <img align="left" alt="Linkdein" width="200px" src="https://github.com/RudiksChess/rudikschess/blob/main/Buttons/LinkedIn.svg" />
+  <img align="left" alt="Linkdein" width="150px" src="https://github.com/RudiksChess/rudikschess/blob/main/Buttons/LinkedIn.svg" />
 </a>
 <a href="https://github.com/rudikschess">
-  <img align="left" alt="Github" width="200px" src="https://github.com/RudiksChess/rudikschess/blob/main/Buttons/GitHub.svg" />
+  <img align="left" alt="Github" width="150px" src="https://github.com/RudiksChess/rudikschess/blob/main/Buttons/GitHub.svg" />
 </a>
 <br><br>
 
