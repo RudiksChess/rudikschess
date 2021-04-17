@@ -20,6 +20,8 @@
 
 ## About me...
 
+<img align="right" alt="GIF" src="https://github.com/RudiksChess/rudikschess/blob/main/Buttons/iehHjW9R.gif" width="360px"/>
+
 ## 👨🏾‍💻 A little bit about my coding experience...
 ```java
 import java.util.HashMap;
