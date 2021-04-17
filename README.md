@@ -22,6 +22,10 @@
 
 <img align="right" alt="GIF" src="https://github.com/RudiksChess/rudikschess/blob/main/Buttons/iehHjW9R.gif" width="360px"/>
 
+
+<samp> Currently pursuing BS in Applied Mathematics (2020-2023) from Universidad del Valle de Guatemala. 
+<samp> Universidad del Valle Chess Club's President (2020). Developing tournament organizer from <a href= "chess.com"> </a> games on  <a href= "https://github.com/RudiksChess/ClubDeAjedrezUVG">
+
 ## 👨🏾‍💻 A little bit about my coding experience...
 ```java
 import java.util.HashMap;
