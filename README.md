@@ -4,9 +4,14 @@
 ## About me...
 
 ## 👨🏾‍💻 A little bit about my coding experience...
-```python
+```java
 import java.util.HashMap;
-HashMap<String, String> Rudik= new HashMap<String, String[]>();
+HashMap<String, String[]> Rudik= new HashMap<>();
+
+Rudik.put("Code", new String[] {"Python", "R", "Java", "Mathematica", "Jupyter Noteboks", "TeX (LaTeX)", "Javascript", "HTML", "CSS"});
+Rudik.put("Learning Languages", new String[] {"Swift", "Kotlin", "GoLang"});
+Rudik.put("Technologies", new String[] {"Wordpress", "Google Cloud", "Blogger", "Github", "Git", "GitKraken", "PyCharm", "IntelliJ", "Microsoft Office"});
+
 ```
 
 
