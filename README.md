@@ -2,7 +2,7 @@
 <img src="https://github.com/RudiksChess/Header/blob/main/Header.gif">
 
 
-### 📊 Github Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/rudikschess">
@@ -11,6 +11,20 @@
   </a>
 </p>
 
+
+##
+<table><tr>
+  <td>
+    <h3>:de: Trusted Web Activitys (TWA) mit Angular</h3>
+    <p>Progressive Web Apps sind in den letzten Jahren immer populärer geworden. In diesem Blogpost werde ich Ihnen zeigen, wie Sie Ihre PWA auf einfachem Weg in den Google Play Store für Android bringen können, ohne eine echte Android-App mit Webview zu entwickeln, die lediglich eine Website aufruft.</p>
+    <a href="https://d-koppenhagen.de//blog/2020-11-twa">:arrow_forward: Read more</a>
+  </td>
+  <td>
+    <img src="https://d-koppenhagen.de/assets/images/blog/twa/header-twa-small.jpg" alt="Banner" width="400px">
+  </td>
+</tr>
+
+</table>
 ##
 <p align="center"> 
   Visitor count<br>
