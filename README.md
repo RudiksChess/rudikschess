@@ -5,7 +5,8 @@
 
 ## 👨🏾‍💻 A little bit about my coding experience...
 ```python
-print("hola mundo")
+import java.util.HashMap;
+HashMap<String, String> Rudik= new HashMap<String, String[]>();
 ```
 
 
