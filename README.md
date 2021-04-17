@@ -12,18 +12,28 @@
 </p>
 
 
-##
+## Blog posts 🔭
 <table><tr>
   <td>
-    <h3>:de: Una fractura </h3>
+    <h3> Una fractura </h3>
     <p>La constante particularidad de la zozobra. El silencio amalgama la soledad de aquel sujeto. El tiempo ha dejado de poseer un sentido cronológico; para convertirse en un factor ínfimo.</p>
-    <a href="https://rudiks.com/archivos/2878">:arrow_forward: Read more</a>
+    <a href="https://rudiks.com/archivos/2878">👉🏽 Read more</a>
   </td>
   <td>
     <img src="https://rudiks.com/wp-content/uploads/2021/04/fractal.png" alt="Banner" width="400px">
   </td>
 </tr>
 
+tr>
+  <td>
+    <h3> Una fracción de eternidad </h3>
+    <p>Un mundo lleno de desigualdad, un mundo lleno de bazofia, un mundo que en su corta historia jamás ha visto tanta devastación provocada por un ingente cinismo generalizado.</p>
+    <a href="https://rudiks.com/archivos/2803">👉🏽 Read more</a>
+  </td>
+  <td>
+    <img src="https://rudiks.com/wp-content/uploads/2020/08/20170410_195232-1400x788.jpg" alt="Banner" width="400px">
+  </td>
+</tr>
 </table>
 ##
 <p align="center"> 
