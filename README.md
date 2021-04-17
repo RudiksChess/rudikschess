@@ -24,7 +24,7 @@
 
 
 - &nbsp; Currently pursuing BS in Applied Mathematics (2020-2023) from Universidad del Valle de Guatemala. 
-- &nbsp;  Universidad del Valle Chess Club's President (2020). Developing tournament organizer from <a href= "chess.com"> </a> games on  <a href= "https://github.com/RudiksChess/ClubDeAjedrezUVG">
+- &nbsp;  Universidad del Valle Chess Club's President (2020). Developing tournament organizer from [chess.com] (chess.com) games at [this repository](https://github.com/RudiksChess/ClubDeAjedrezUVG)
 
 
 
