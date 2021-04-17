@@ -23,7 +23,7 @@
 <img align="right" alt="GIF" src="https://github.com/RudiksChess/rudikschess/blob/main/Buttons/iehHjW9R.gif" width="360px"/>
 
 
-- 📐 &nbsp; Currently pursuing BS in Applied Mathematics (2020-2023) from Universidad del Valle de Guatemala. 
+- 📐 &nbsp; Currently pursuing BS in Applied Mathematics (2021-2023) from Universidad del Valle de Guatemala. 
 - 📌 &nbsp; I was a Physics major for two years (2019-2020). 
 - ♟  &nbsp; Universidad del Valle Chess Club's President (2020). Currently developing tournaments organizer from [chess.com] (https://chess.com) games at [this repository](https://github.com/RudiksChess/ClubDeAjedrezUVG).
 - 💻 &nbsp; This semester I am taking Algorithms & Data Structures in Java. Checkout these awesome projects: [Traslator Binary Search Tree](https://github.com/RudiksChess/Estructuras_Hoja_7), [Lisp Interpreter](https://github.com/RudiksChess/IntepreteLisp).
