@@ -1,6 +1,8 @@
 # Hello, folks! <img src="https://github.com/RudiksChess/rudikschess/blob/main/wave.gif" width="30px"> I am...
 <img src="https://github.com/RudiksChess/Header/blob/main/Header.gif">
+
 ## Contacts 
+
 <br><br>
 <a href="https://twitter.com/TheRudiks">
   <img align="left" alt="Twitter" width="100px" src="https://github.com/RudiksChess/rudikschess/blob/main/Buttons/Twitter.svg" />
@@ -12,7 +14,7 @@
   <img align="left" alt="Github" width="100px" src="https://github.com/RudiksChess/rudikschess/blob/main/Buttons/GitHub.svg" />
 </a>
 <a href="https://rudiks.com">
-  <img align="left" alt="Rudiks" width="100px" src="https://github.com/RudiksChess/rudikschess/blob/main/Buttons/rudiks-2.svg" />
+  <img align="left" alt="Rudiks" width="200px" src="https://github.com/RudiksChess/rudikschess/blob/main/Buttons/rudiks-2.svg" />
 </a>
 <br><br>
 
