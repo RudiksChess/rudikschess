@@ -1,6 +1,13 @@
 # Hello, folks! <img src="https://github.com/RudiksChess/rudikschess/blob/main/wave.gif" width="30px"> I am...
 <img src="https://github.com/RudiksChess/Header/blob/main/Header.gif">
 
+## A little bit about me...
+
+## A little bit about my coding experience...
+```python
+print("hola mundo")
+```
+
 
 ### 📊 GitHub Stats
 
@@ -35,7 +42,7 @@
   </td>
 </tr>
 </table>
-##
+# Counter
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/rudikschess/count.svg" />
