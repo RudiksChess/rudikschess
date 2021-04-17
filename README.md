@@ -23,14 +23,14 @@
 <img align="right" alt="GIF" src="https://github.com/RudiksChess/rudikschess/blob/main/Buttons/iehHjW9R.gif" width="360px"/>
 
 
-- &nbsp; Currently pursuing BS in Applied Mathematics (2020-2023) from Universidad del Valle de Guatemala. 
-- &nbsp; I was a Physics major for two years (2019-2020). 
-- &nbsp; Universidad del Valle Chess Club's President (2020). Currently developing tournaments organizer from [chess.com] (https://chess.com) games at [this repository](https://github.com/RudiksChess/ClubDeAjedrezUVG).
-- &nbsp; This semester I am taking Algorithms & Data Structures in Java. Checkout these awesome projects: [Traslator Binary Search Tree](https://github.com/RudiksChess/Estructuras_Hoja_7), [Lisp Interpreter](https://github.com/RudiksChess/IntepreteLisp).
-- &nbsp; Taking nice notes in LaTeX at these repositories:  [Real Analysis](https://github.com/RudiksChess/Real_Analysis), [Mathematical Statistics](https://github.com/RudiksChess/Estadistica_Matematica), [Inferential Statistics](https://github.com/RudiksChess/Estadistica_Inferencial), [Partial Differential Equations](https://github.com/RudiksChess/EcuacionesDiferenciales2), [Discrete Mathematics](https://github.com/RudiksChess/Matematica_Discreta). 
-- &nbsp; I am improving my blogging skills, recently I migrated my blog [rudiks.com](https://rudiks.com) from Blogger to Google Cloud. 
-- &nbsp; Literature enthusiast, checkout my [Goodreads](https://www.goodreads.com/user/show/36845341-rudik-roberto-rompich) account. 
-- &nbsp; Ping me on [LinkedIn](https://www.linkedin.com/in/therudiks/). 
+📐- &nbsp; Currently pursuing BS in Applied Mathematics (2020-2023) from Universidad del Valle de Guatemala. 
+📌- &nbsp; I was a Physics major for two years (2019-2020). 
+♟- &nbsp; Universidad del Valle Chess Club's President (2020). Currently developing tournaments organizer from [chess.com] (https://chess.com) games at [this repository](https://github.com/RudiksChess/ClubDeAjedrezUVG).
+💻- &nbsp; This semester I am taking Algorithms & Data Structures in Java. Checkout these awesome projects: [Traslator Binary Search Tree](https://github.com/RudiksChess/Estructuras_Hoja_7), [Lisp Interpreter](https://github.com/RudiksChess/IntepreteLisp).
+👌🏽- &nbsp; Taking nice notes in LaTeX at these repositories:  [Real Analysis](https://github.com/RudiksChess/Real_Analysis), [Mathematical Statistics](https://github.com/RudiksChess/Estadistica_Matematica), [Inferential Statistics](https://github.com/RudiksChess/Estadistica_Inferencial), [Partial Differential Equations](https://github.com/RudiksChess/EcuacionesDiferenciales2), [Discrete Mathematics](https://github.com/RudiksChess/Matematica_Discreta). 
+🖌- &nbsp; I am improving my blogging skills, recently I migrated my blog [rudiks.com](https://rudiks.com) from Blogger to Google Cloud. 
+📖- &nbsp; Literature enthusiast, checkout my [Goodreads](https://www.goodreads.com/user/show/36845341-rudik-roberto-rompich) account. 
+👨🏽‍🔬- &nbsp; Ping me on [LinkedIn](https://www.linkedin.com/in/therudiks/). 
 
 ## 👨🏾‍💻 A little bit about my coding experience...
 ```java
