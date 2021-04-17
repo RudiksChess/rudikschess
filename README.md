@@ -8,9 +8,13 @@
 import java.util.HashMap;
 HashMap<String, String[]> Rudik= new HashMap<>();
 
-Rudik.put("Code", new String[] {"Python", "R", "Java", "Mathematica", "Jupyter Noteboks", "TeX (LaTeX)", "Javascript", "HTML", "CSS"});
+Rudik.put("Code", new String[] {"Python", "R", "Java", "Mathematica", "Jupyter Noteboks",
+"TeX (LaTeX)", "Javascript", "HTML", "CSS"});
+
 Rudik.put("Learning Languages", new String[] {"Swift", "Kotlin", "GoLang"});
-Rudik.put("Technologies", new String[] {"Wordpress", "Google Cloud", "Blogger", "Github", "Git", "GitKraken", "PyCharm", "IntelliJ", "Microsoft Office"});
+
+Rudik.put("Technologies", new String[] {"Wordpress", "Google Cloud", "Blogger", "Github",
+"Git", "GitKraken", "PyCharm", "IntelliJ", "Microsoft Office"});
 
 ```
 
