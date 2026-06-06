@@ -1,1 +1,1 @@
-{}
+{'@RudiksChess': 1}
