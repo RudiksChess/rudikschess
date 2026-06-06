@@ -74,15 +74,6 @@ Independent analysis and strategic ideas to empower the next generation of decis
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rudikschess&count_private=true&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudikschess&hide=html,css&layout=compact&langs_count=8&theme=algolia&hide_border=true" alt="top langs" />
-</div>
-
----
-
 <div align="center">
 
 📫 **Let's build something** &mdash; [cincois.com](https://cincois.com) · [Upwork](https://www.upwork.com/freelancers/~017cffbe03216e94c3) · [LinkedIn](https://www.linkedin.com/in/therudiks/)
