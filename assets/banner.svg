@@ -40,7 +40,7 @@
         <text x="1252" y="252" text-anchor="end">x</text>
       </g>
       <g fill="#D9DEEA" font-family="Georgia, 'Times New Roman', Times, serif" font-style="italic" opacity="0.62">
-        <text x="1058" y="62" font-size="21">∫ e<tspan dy="-9" font-size="14">−x²</tspan><tspan dy="9"> dx = √π</tspan></text>
+        <text x="1040" y="62" font-size="21">∫<tspan dy="9" dx="1" font-size="11">−∞</tspan><tspan dy="-22" dx="-13" font-size="11">∞</tspan><tspan dy="13" dx="5">e</tspan><tspan dy="-9" font-size="14">−x²</tspan><tspan dy="9"> dx = √π</tspan></text>
         <text x="640" y="72" font-size="19">e<tspan dy="-8" font-size="13">iπ</tspan><tspan dy="8"> + 1 = 0</tspan></text>
         <text x="1090" y="328" font-size="18">Σ 1/n² = π²/6</text>
       </g>
