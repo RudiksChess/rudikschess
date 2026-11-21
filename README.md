@@ -75,12 +75,12 @@ Data engineering, not opinions.
 
 ## Toolkit
 
-| | |
-|:--|:--|
-| **Languages** | Python &nbsp;·&nbsp; R &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Java &nbsp;·&nbsp; JavaScript |
-| **Data & cloud** | Google Cloud &nbsp;·&nbsp; BigQuery &nbsp;·&nbsp; Jupyter &nbsp;·&nbsp; Git &nbsp;·&nbsp; GitHub Actions |
-| **Mathematics** | LaTeX &nbsp;·&nbsp; Mathematica |
-| **Currently sharpening** | Go &nbsp;·&nbsp; Swift &nbsp;·&nbsp; Kotlin |
+<table>
+<tr><td><b>Languages</b></td><td>Python &nbsp;·&nbsp; R &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Java &nbsp;·&nbsp; JavaScript</td></tr>
+<tr><td><b>Data &amp; cloud</b></td><td>Google Cloud &nbsp;·&nbsp; BigQuery &nbsp;·&nbsp; Jupyter &nbsp;·&nbsp; Git &nbsp;·&nbsp; GitHub Actions</td></tr>
+<tr><td><b>Mathematics</b></td><td>LaTeX &nbsp;·&nbsp; Mathematica</td></tr>
+<tr><td><b>Currently sharpening</b></td><td>Go &nbsp;·&nbsp; Swift &nbsp;·&nbsp; Kotlin</td></tr>
+</table>
 
 <br/>
 
