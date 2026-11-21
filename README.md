@@ -24,6 +24,9 @@ Two ventures, one discipline: clean data, verifiable methods, and nothing you ha
 <tr>
 <td width="50%" valign="top">
 
+<br/>
+<a href="https://cincois.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cincois-dark.svg" /><img src="assets/cincois-light.svg" alt="cincois logo" height="46" /></picture></a>
+
 ### Cinco Innovative Solutions
 
 *Claim data that holds up.*
@@ -41,6 +44,9 @@ AI does the checking. A person owns the outcome.
 
 </td>
 <td width="50%" valign="top">
+
+<br/>
+<a href="https://cinco.org.gt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cinco-guatemala-dark.svg" /><img src="assets/cinco-guatemala-light.svg" alt="Cinco Guatemala logo" height="46" /></picture></a>
 
 ### Cinco Guatemala
 
