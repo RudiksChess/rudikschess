@@ -1,89 +1,105 @@
 <div align="center">
 
-<img src="Header.gif" alt="banner" />
+<img src="assets/banner.svg" alt="Rudik Rompich — Founder and applied mathematician" width="100%" />
 
-# Hi, I'm Rudik <img src="wave.gif" width="28px" alt="wave" />
+<br/><br/>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=06B6D4&center=true&vCenter=true&width=720&lines=Tech+Founder+%7C+Litigation+Data+%26+AI;Founder+of+Cinco+Innovative+Solutions;Building+data-driven+tools+for+Guatemala;Applied+Mathematician+%E2%99%9F+Lifelong+Chess+Player" alt="roles" />
-</a>
+**I build data systems for places where a wrong number is expensive.**
 
-<br/>
-
-[![Cinco Innovative Solutions](https://img.shields.io/badge/Cinco_Innovative_Solutions-cincois.com-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cincois.com)
-[![Cinco Guatemala](https://img.shields.io/badge/Cinco_Guatemala-cinco.org.gt-1E3A8A?style=for-the-badge&logo=readthedocs&logoColor=white)](https://cinco.org.gt)
-[![Hire me on Upwork](https://img.shields.io/badge/Upwork-Hire_me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~017cffbe03216e94c3)
-
-[![Blog](https://img.shields.io/badge/Blog-rudiks.com-FF6B35?style=flat-square&logo=ghost&logoColor=white)](https://rudiks.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-therudiks-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/therudiks/)
-[![X](https://img.shields.io/badge/X-@TheRudiks-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/TheRudiks)
+[cincois.com](https://cincois.com) &nbsp;·&nbsp; [cinco.org.gt](https://cinco.org.gt) &nbsp;·&nbsp; [rudiks.com](https://rudiks.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/therudiks/) &nbsp;·&nbsp; [X](https://twitter.com/TheRudiks) &nbsp;·&nbsp; [Upwork](https://www.upwork.com/freelancers/~017cffbe03216e94c3)
 
 </div>
 
----
+<br/>
 
-## 👋 About
+I'm a founder and applied mathematician. My work lives in two places where data gets questioned hard: litigation dockets, where every claim has to be verified before it counts, and Guatemala's public record, where every figure should trace back to its source.
 
-<img align="right" alt="chess" src="Buttons/iehHjW9R.gif" width="320px" />
+Two ventures, one discipline: clean data, verifiable methods, and nothing you have to take on faith.
 
-I'm a **tech founder** and applied mathematician focused on turning data and AI into tools people actually use. Through my company I build the data layer for high-volume litigation, and I run Cinco Guatemala, a data company that turns the country's scattered public data into live observatories, APIs, and products. I trained as a mathematician, captained a university chess club, and I still believe the best engineering reads like a clean endgame.
+<br/>
 
-- 🚀 Founder &mdash; **Cinco Innovative Solutions**, verified claim data and integrations for high-volume litigation
-- 🔬 Founder &mdash; **Cinco Guatemala**, Guatemala's data company: curated series, APIs, and live observatories
-- 💼 Available for select freelance & consulting work via **[Upwork](https://www.upwork.com/freelancers/~017cffbe03216e94c3)**
-- 📐 BS in Applied Mathematics, Universidad del Valle de Guatemala
-- ♟ Former President of the UVG Chess Club
-- ✍️ I write about ideas, mathematics and literature at **[rudiks.com](https://rudiks.com)**
+## Ventures
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🚀 What I'm building
+### Cinco Innovative Solutions
 
-### [Cinco Innovative Solutions](https://cincois.com) &nbsp;·&nbsp; `cincois.com`
-> **Claim data that holds up.** Cinco builds and runs the data layer for high-volume litigation &mdash; claims verified at intake, systems connected across your stack, and records that survive scrutiny.
+*Claim data that holds up.*
 
-- ✅ **Verified Intake** &mdash; every claim passes six gates (completeness, signature validity, identity, internal consistency, duplicates & dual representation, document integrity) before it enters the CMS, and a named specialist signs each file
-- 🔌 **Data Integration** &mdash; lead sources → CRM → case management → court and settlement portals, connected and reconciled
-- 📊 **Litigation Data & Analytics** &mdash; inventory reporting, docket exposure, documentation-completeness scoring, and lender-ready diligence packets
-- 📑 **Compliance Production** &mdash; plaintiff fact sheets, census submissions, deficiency cures, and settlement claim packets, produced on the court's calendar
+The data layer for high-volume litigation. Claims are verified at intake, systems are connected across the stack, and every record is built to survive scrutiny.
 
-AI does the checking; a person owns the outcome. Published pricing and a self-serve pilot.
+- **Verified Intake**<br/>Six gates on every file, signed by a named specialist.
+- **Data Integration**<br/>Lead source to CRM to case management to court portal, connected and reconciled.
+- **Litigation Data & Analytics**<br/>Inventory reporting, docket exposure, and lender-ready diligence.
+- **Compliance Production**<br/>Fact sheets, census submissions, and deficiency cures, on the court's calendar.
 
-### [Cinco Guatemala](https://cinco.org.gt) &nbsp;·&nbsp; `cinco.org.gt`
-> *"Los datos de Guatemala, en un solo lugar"* &mdash; Guatemala's data, in one place.
+AI does the checking. A person owns the outcome.
 
-Guatemala's data company: curated series, APIs, and AI automations that turn scattered information into decisions &mdash; with sources, assumptions, and code in the open.
+**[cincois.com →](https://cincois.com)**
 
-- 📡 **Live observatories** &mdash; public dashboards on **remittances**, real-time inflation (~134,000 online prices tracked daily), Congress, public health, and elections
-- 🏛️ **Cinco Guatecompras** &mdash; SaaS for companies that sell to the state: which public tenders are open today, who you're competing against, and which are worth pursuing
-- 🧮 **Data API & research** &mdash; replicable series plus research articles and quick-analysis pieces (*El Pulso*) on remittances, exchange-rate margins, and transfer costs
+</td>
+<td width="50%" valign="top">
 
----
+### Cinco Guatemala
 
-## 🛠️ Tech & Tools
+*Guatemala's data, in one place.*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![Mathematica](https://img.shields.io/badge/Mathematica-DD1100?style=flat-square&logo=wolframmathematica&logoColor=white)
+Guatemala's data company. Curated series, APIs, and AI automations that turn scattered information into decisions, with sources, assumptions, and code in the open.
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+- **Live observatories**<br/>Remittances, inflation, Congress, public health, and elections, measured daily.
+- **Inflation in real time**<br/>Around 134,000 online prices tracked every day, next to the official index.
+- **Cinco Guatecompras**<br/>Public procurement from the seller's side: what is open, who you face, what is worth bidding on.
+- **Data API & research**<br/>Replicable series and analysis you can cite with confidence.
 
-<sub>Currently sharpening: **Go**, **Swift**, **Kotlin**.</sub>
+Data engineering, not opinions.
+
+**[cinco.org.gt →](https://cinco.org.gt)**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## How I work
+
+**Show the work.** Sources, assumptions, and method travel with every number, so anyone can replicate it.
+
+**Automate the checking, not the accountability.** Machines run the gates. A named person signs the result.
+
+**Ship it live.** A pipeline that updates itself beats a PDF that arrives once a year.
+
+<br/>
+
+## Toolkit
+
+| | |
+|:--|:--|
+| **Languages** | Python &nbsp;·&nbsp; R &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Java &nbsp;·&nbsp; JavaScript |
+| **Data & cloud** | Google Cloud &nbsp;·&nbsp; BigQuery &nbsp;·&nbsp; Jupyter &nbsp;·&nbsp; Git &nbsp;·&nbsp; GitHub Actions |
+| **Mathematics** | LaTeX &nbsp;·&nbsp; Mathematica |
+| **Currently sharpening** | Go &nbsp;·&nbsp; Swift &nbsp;·&nbsp; Kotlin |
+
+<br/>
+
+## Beyond the work
+
+<img align="right" src="Buttons/iehHjW9R.gif" alt="A chess game in progress" width="190" />
+
+I trained as a mathematician, with a BS in Applied Mathematics from Universidad del Valle de Guatemala, and served as president of the university's chess club. I still believe the best engineering reads like a clean endgame: nothing wasted, every move with a reason.
+
+I write about ideas, mathematics, and literature at **[rudiks.com](https://rudiks.com)**.
+
+<br clear="right"/>
 
 ---
 
 <div align="center">
 
-📫 **Let's build something** &mdash; [cincois.com](https://cincois.com) · [Upwork](https://www.upwork.com/freelancers/~017cffbe03216e94c3) · [LinkedIn](https://www.linkedin.com/in/therudiks/)
+**Have numbers that need to hold up?**
 
-<img src="https://profile-counter.glitch.me/rudikschess/count.svg" alt="visitors" />
+I take on select consulting work. Reach me through [cincois.com](https://cincois.com), [LinkedIn](https://www.linkedin.com/in/therudiks/), or [Upwork](https://www.upwork.com/freelancers/~017cffbe03216e94c3).
 
 </div>
